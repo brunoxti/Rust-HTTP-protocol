@@ -1,1 +1,0 @@
-/home/bruno/dev/Rust-HTTP-protocol/target/debug/server: /home/bruno/dev/Rust-HTTP-protocol/src/http/method.rs /home/bruno/dev/Rust-HTTP-protocol/src/http/mod.rs /home/bruno/dev/Rust-HTTP-protocol/src/http/request.rs /home/bruno/dev/Rust-HTTP-protocol/src/main.rs /home/bruno/dev/Rust-HTTP-protocol/src/server.rs
